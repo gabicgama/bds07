@@ -48,9 +48,8 @@
   color: #fff;
 }
 
-
 @media (min-width: 576px) {
-    .search-input {
-        width: 480px;
-    }
+  .search-input {
+    width: 480px;
+  }
 }
